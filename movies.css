@@ -1,0 +1,33 @@
+img {
+  width: 200px;
+  height: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h3 {
+  font-weight: bold;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  text-align: center;
+  color: black;
+}
+
+table {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  border-collapse: collapse;
+  border-width: 15px;
+  border-style: solid;
+  border-color: tomato;
+}
+
+td {
+  width: 700px;
+  background-image: url("./images/colorful-crystal-background.jpg");
+  color: black;
+  font-weight: bold;
+}
+
+tr {
+  width: 200px;
+}
